@@ -1,6 +1,6 @@
 # Intro
-Garlicoin is hot out of the oven and ready to serve you with its buttery goodness.  
-Forked from LTC, this decentralized cryptocurrency with no new technology (except it's ASIC resistant!!) will help you through the darkest times in your life.  
+Garlicoin vient de sortir du four, chaud et prêt à vous servir avec sa bonté remplie de beurre.
+Une fourche de LTC, cette crypto-monnaie décentralisée sans technology nouvelle (sauf qu'il est résistant au technology ASIC!!) va vous aider à traverser les moments les plus sombres de votre vie.
 This is the coin you never thought you needed, and you probably don't.  
 
 # What is it?
