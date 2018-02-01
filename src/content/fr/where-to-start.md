@@ -10,12 +10,12 @@ dois installer.
 - [Mac](./wallet-mac.html)
 - [Linux](./wallet-nix.html)
 
-Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facile à utiliser et fonctionne partout. Cependant, il ne soutien pas Solo Mining très bien et il est moins sécuritaire (parce qu'il est en ligne).
+Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facile à utiliser et fonctionne partout. Cependant, il ne soutien pas le Minage Solo très bien et il est moins sécuritaire (parce qu'il est en ligne).
 
-## Step 3: Mining
-If you want to mine, you need to learn more about the different choices you will have to make when mining, you can do so [here](./how-to-mine.html).  
-Once you know what you want to do (CPU vs GPU, Solo vs Pool), then you can choose its corresponding guide.  
-**GPU Pool Mining is recommended** as it has the highest success rate.
+## Étape 3: Minière
+Si vous voulez faire du minage, vous devez apprendre sur les différents choix que vous allez faire quand vous faite l'extraction minère de GLRC, vous pouvez le faire [ici](./how-to-mine.html).
+Une fois que vous savez ce que vous voulez faire CPU (processeur) vs GPU(carte graphique), Solo vs Réserve minière, vous pouvez choisir le guide correspondant.
+**Il est conseillé de faire du minage GPU avec une Réserve** , car il proccure le taux de réussite le plus élevé.
 - [CPU (all)](./mining-cpu.html)
 - [Windows Nvidia](./mining-win-nvidia.html)
 - [Windows AMD](./mining-win-amd.html)
