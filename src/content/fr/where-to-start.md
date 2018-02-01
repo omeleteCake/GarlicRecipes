@@ -5,7 +5,7 @@ Premièrement, vous voudrez peut-être apprendre plus sur Garlicoin. Vous pouvez
 Après avoir fait cela, vous avez besoin d'un Portefeuille (pour avoir ton propre GRLC).  
 Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que 
 dois installer.  
-**If you plan on solo mining**, you should get one of the official wallets (Command Only).  
+**Si tu veux faire l'extraction de GRLC solo**, vous devrez avoir un des Portefeuille officelle (Commandes Seulement).  
 - [Windows](./wallet-win.html)
 - [Mac](./wallet-mac.html)
 - [Linux](./wallet-nix.html)
@@ -15,7 +15,7 @@ Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facil
 ## Étape 3: Minière
 Si vous voulez faire du minage, vous devez apprendre sur les différents choix que vous allez faire quand vous faite l'extraction minère de GLRC, vous pouvez le faire [ici](./how-to-mine.html).
 Une fois que vous savez ce que vous voulez faire CPU (processeur) vs GPU(carte graphique), Solo vs Réserve minière, vous pouvez choisir le guide correspondant.
-**Il est conseillé de faire du minage GPU avec une Réserve** , car il proccure le taux de réussite le plus élevé.
+**Il est conseillé de faire du minage GPU avec une Réserve**, car il proccure le taux de réussite le plus élevé.
 - [CPU (all)](./mining-cpu.html)
 - [Windows Nvidia](./mining-win-nvidia.html)
 - [Windows AMD](./mining-win-amd.html)
