@@ -1,9 +1,10 @@
 ## Étape 1: Apprendre
-Premièrement, tu voudrais peut-être apprendre plus sur Garlicoin. Tu peux faire cela [ici](./what-is-garlicoin.html).  
+Premièrement, vous voudrez peut-être apprendre plus sur Garlicoin. Vous pouvez faire cela [ici](./what-is-garlicoin.html).  
 
 ## Step 2: Portefeuille
-Après avoir fait cela, tu a besoin d'un Portefeuille (pour avoir ton propre GRLC).  
-Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que tu dois installer.  
+Après avoir fait cela, vous avez besoin d'un Portefeuille (pour avoir ton propre GRLC).  
+Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que 
+dois installer.  
 **If you plan on solo mining**, you should get one of the official wallets (Command Only).  
 - [Windows](./wallet-win.html)
 - [Mac](./wallet-mac.html)
