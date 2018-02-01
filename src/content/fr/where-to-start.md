@@ -1,15 +1,15 @@
 ## Étape 1: Apprendre
-First, you might want to learn more about Garlicoin, which you can do [here](./what-is-garlicoin.html).  
+Premièrement, tu voudrais peut-être apprendre plus sur Garlicoin. Tu peux faire cela [ici](./what-is-garlicoin.html).  
 
-## Step 2: Wallet
-Once you have done that, you will want to get a Wallet (so you can have your own GRLC).  
-It is **recommended** that you get the [Garlium wallet](./wallet-garlium.html), a user-friendly GUI app that you can download.  
+## Step 2: Portefeuille
+Après avoir fait cela, tu a besoin d'un Portefeuille (pour avoir ton propre GRLC).  
+Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que tu dois installer.  
 **If you plan on solo mining**, you should get one of the official wallets (Command Only).  
 - [Windows](./wallet-win.html)
 - [Mac](./wallet-mac.html)
 - [Linux](./wallet-nix.html)
 
-There is also an [online wallet](https://breadbox.xyz), which is easier to use, and works anywhere. But it doesn't support Solo Mining very well, and is a bit less secure (because it's online).
+Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facile à utiliser et fonctionne partout. Cependant, il ne soutien pas Solo Mining très bien et il est moins sécuritaire (parce qu'il est en ligne).
 
 ## Step 3: Mining
 If you want to mine, you need to learn more about the different choices you will have to make when mining, you can do so [here](./how-to-mine.html).  
@@ -20,8 +20,8 @@ Once you know what you want to do (CPU vs GPU, Solo vs Pool), then you can choos
 - [Windows AMD](./mining-win-amd.html)
 - [Linux GPU](./mining-nix-gpu.html)
 
-## Step 4: Donate!
-If I helped you, please consider donating to me (@Pandawan#4158):
+## Étape 4: Faire un don!
+Si je t'ai aidé, s'il vous plaît considérer de me faire une contribution (@Pandawan#4158):
 
 - BTC: 13xqEPwdfkYFVdQvF596k91mWeUHRJTRjk
 - LTC: LhrWcYnXxnA3TcznRRvkfuZ8TVYNJ2nisU
