@@ -1,8 +1,7 @@
 # Intro
 Garlicoin vient de sortir du four, chaud et prêt à vous servir avec sa bonté remplie de beurre.
 Une fourche de LTC, cette crypto-monnaie décentralisée sans technology nouvelle (sauf qu'il est résistant au technology ASIC!!) va vous aider à traverser les moments les plus sombres de votre vie.
-This is the coin you never thought you needed, and you probably don't.  
-
+C'est la pièce de monnaie dont vous n'avez jamais pensé avoir eu besoin, et vous n'en avez probablement pas besoin.
 # What is it?
 Okay, for real, Garlicoin is a new cryptocurrency created by the Garlicoin Team.  
 It is a fork (modified version) of litecoin and therefore works very similarly to it.  
