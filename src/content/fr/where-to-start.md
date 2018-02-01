@@ -1,4 +1,4 @@
-## Step 1: Learn
+## Étape 1: Apprendre
 First, you might want to learn more about Garlicoin, which you can do [here](./what-is-garlicoin.html).  
 
 ## Step 2: Wallet
