@@ -3,20 +3,19 @@ Premièrement, vous voudrez peut-être apprendre plus sur Garlicoin. Vous pouvez
 
 ## Step 2: Portefeuille
 Après avoir fait cela, vous avez besoin d'un Portefeuille (pour avoir ton propre GRLC).  
-Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que 
-dois installer.  
-**Si tu veux faire l'extraction de GRLC solo**, vous devrez avoir un des Portefeuille officelle (Commandes Seulement).  
+Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que vous devez installer.
+**Si tu veux miner du GRLC solo**, vous devez avoir un des Portefeuille officelle (Commandes Seulement).
 - [Windows](./wallet-win.html)
 - [Mac](./wallet-mac.html)
 - [Linux](./wallet-nix.html)
 
 Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facile à utiliser et fonctionne partout. Cependant, il ne soutien pas le Minage Solo très bien et il est moins sécuritaire (parce qu'il est en ligne).
 
-## Étape 3: Minière
-Si vous voulez faire du minage, vous devez apprendre sur les différents choix que vous allez faire quand vous faite l'extraction minère de GLRC, vous pouvez le faire [ici](./how-to-mine.html).
-Une fois que vous savez ce que vous voulez faire CPU (processeur) vs GPU(carte graphique), Solo vs Réserve minière, vous pouvez choisir le guide correspondant.
+## Étape 3: Miner
+Vous devez apprendre les différents choix que vous allez faire quand vous faites du minage de GLRC, vous pouvez le faire [ici](./how-to-mine.html).
+Une fois que vous savez ce que vous voulez faire, CPU (processeur) ou GPU(carte graphique), Solo ou Réserve minière, vous pouvez choisir le guide correspondant.
 **Il est conseillé de faire du minage GPU avec une Réserve**, car il proccure le taux de réussite le plus élevé.
-- [CPU (all)](./mining-cpu.html)
+- [CPU (tous)](./mining-cpu.html)
 - [Windows Nvidia](./mining-win-nvidia.html)
 - [Windows AMD](./mining-win-amd.html)
 - [Linux GPU](./mining-nix-gpu.html)
