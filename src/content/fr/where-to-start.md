@@ -12,7 +12,7 @@ Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une appli
 Il y a aussi [un portefeuille en ligne](https://breadbox.xyz). Il est plus facile à utiliser et fonctionne partout. Cependant, il ne soutien pas le Minage Solo très bien et il est moins sécuritaire (parce qu'il est en ligne).
 
 ## Étape 3: Miner
-Vous devez apprendre les différents choix que vous allez faire quand vous faites du minage de GLRC, vous pouvez le faire [ici](./how-to-mine.html).
+Pour miner le GRLC, il faut en premier s'instruire sur les différents options de minage. Vous pouvez le faire [ici](./how-to-mine.html).
 Une fois que vous savez ce que vous voulez faire, CPU (processeur) ou GPU(carte graphique), Solo ou Réserve minière, vous pouvez choisir le guide correspondant.
 **Il est conseillé de faire du minage GPU avec une Réserve**, car il proccure le taux de réussite le plus élevé.
 - [CPU (tous)](./mining-cpu.html)
@@ -21,7 +21,7 @@ Une fois que vous savez ce que vous voulez faire, CPU (processeur) ou GPU(carte 
 - [Linux GPU](./mining-nix-gpu.html)
 
 ## Étape 4: Faire un don!
-Si je t'ai aidé, s'il vous plaît considérer de me faire une contribution (@Pandawan#4158):
+S'il vous plaît considérer de me faire un don (@Pandawan#4158):
 
 - BTC: 13xqEPwdfkYFVdQvF596k91mWeUHRJTRjk
 - LTC: LhrWcYnXxnA3TcznRRvkfuZ8TVYNJ2nisU
