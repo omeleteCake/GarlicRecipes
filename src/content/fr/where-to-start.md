@@ -4,7 +4,7 @@ Premièrement, vous voudrez peut-être apprendre plus sur Garlicoin. Vous pouvez
 ## Step 2: Portefeuille
 Après avoir fait cela, vous avez besoin d'un Portefeuille (pour avoir ton propre GRLC).  
 Il est **conseillé** d'avoir [Garlium wallet](./wallet-garlium.html), une application interface d'utilisateur graphique (GUI) que vous devez installer.
-**Si tu veux miner du GRLC solo**, vous devez avoir un des Portefeuille officels (Command Seulement).
+**Si tu veux miner du GRLC solo**, vous devez avoir un des Portefeuille officiels (Command Seulement).
 - [Windows](./wallet-win.html)
 - [Mac](./wallet-mac.html)
 - [Linux](./wallet-nix.html)
