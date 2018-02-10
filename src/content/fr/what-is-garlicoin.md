@@ -12,7 +12,7 @@ Un portefeuille sert à garder les adresses de Garlicoin. Ils sont souvent faits
 <br>
 
 Si le propriétaire connait sa clé privée et toutes les autres informations d'identification, il peut utiliser son portefeuille sur n'importe quel ordinateur.
-**Tes Garlicoin ne sont pas gardé dans un fichier**, ils sont suivis par tout le monde sur le réseau. Supprimer un dossier avec Garlicoin n'entraînera pas de perte de pièces. Le propriétaire a seulement besoin de savoir sa clé privée (généralement enregistré dans le fichier `wallet.dat`) pour récupérer ses pièces.
+**Tes Garlicoin ne sont pas gardés dans un fichier**, ils sont suivis par tout le monde sur le réseau. Supprimer un dossier avec Garlicoin n'entraînera pas de perte de pièces. Le propriétaire a seulement besoin de savoir sa clé privée (généralement enregistré dans le fichier `wallet.dat`) pour récupérer ses pièces.
 
 # Miner
 Le minage de crytpo-monnaie consiste à vérifier si une transaction est valide à l'aide des calculs d'un ordinateur. Pour chaque confirmation, le mineur reçoit une récompense sous la forme d'une petite quantité de Garlicoin.
