@@ -25,5 +25,5 @@ Les mineurs peuvent seulement utiliser leur CPU (processeur) et leur GPU (carte 
 Si vous avez eu un Portefeuille pendant la période Test-Net, vous devez faire une adresse Main-Net (l'adresse commence avec la lettre G). Les Garlicoins Test-Net ne sont pas des vrais pièces Garlicoin.
 <br>
 
-# Where to Start?
+# Où commencer?
 D'abord, vous devez créer un Portefeuille. Il y a plusieurs options, prenez votre temps et choisissez celle qui vous convient le mieux. Si vous voulez miner, vous devrez installer le Portefeuille, puis installer le mineur.
