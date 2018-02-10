@@ -11,8 +11,8 @@ Tu peut trouver la source original du code sur [Github](https://github.com/Garli
 Un portefeuille sert à garder les adresse de Garlicoin. Ils sont souvent fait avec deux clés (chaînes de données), une clé publique et une clé privée. La clé publique est utilisée pour recevoir du Garlicoin. Partage cette clé avec les personnes qui veulent te donner du GRLC. La clé privée est utilisée pour envoyer du GRLC. Gardez cette adresse secrète, car elle donne accès à tous vos Garlicoins. Généralement, la clé privée va être cachée et elle est conservé dans un endroit secret (seul le propriétaire devrait y avoir accès).  
 <br>
 
-As long as the owner knows his private key and other identifying information, they can use their wallet anywhere (on any computer).
-**Garlicoin are not stored in a file**, they are just kept track of by everyone on the network. That means that deleting a Garlicoin installation will not remove any Garlicoin. The owner just needs the private key (usually stored in a `wallet.dat` file) to recover their coins.
+Si le propriétaire connait sa clé privée et toutes les autres informations d'identification, il peut utiliser son portefeuille sur n'importe quel ordinateur.
+**Garlicoin ne sont pas garder dans un fichier**, ils sont suivis par tout le monde sur le réseau. Supprimer un dossier avec Garlicoin n'entraînera pas de perte de pièces. Le propriétaire a seulement besoin de savoir sa clé privée (généralement enregistré dans le fichier `wallet.dat`) pour récupérer ses pièces.
 
 # Mining
 Mining, in cryptocurrency, is the process of verifying that a transaction is valid using computer calculations. For each verification a miner makes, they get a small amount of newly created Garlicoin for their "hard" work.  
