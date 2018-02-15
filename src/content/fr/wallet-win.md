@@ -1,7 +1,7 @@
 # Table des Matières
-- [Configuration du réseau](#setting-up-the-network)
-- [Créer un Portefeuille](#getting-a-wallet)
-- [Diagnostic des anomalies](#troubleshooting)
+- [Configuration du réseau](#Configuration-du-réseau)
+- [Créer un Portefeuille](#Créer-un-Portefeuille)
+- [Diagnostic des anomalies](#Diagnostic des anomalies)
 
 # Configuration du réseau
 Setting up the network is fast and very easy. It allows your computer to connect to the Garlicoin Network.
