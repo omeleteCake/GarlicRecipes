@@ -1,9 +1,9 @@
-# Table of Contents
-- [Setting Up The Network](#setting-up-the-network)
-- [Getting A Wallet](#getting-a-wallet)
-- [Troubleshooting](#troubleshooting)
+# Table des Matières
+- [Configuration du réseau](#setting-up-the-network)
+- [Créer un Portefeuille](#getting-a-wallet)
+- [Diagnostic des anomalies](#troubleshooting)
 
-# Setting Up The Network
+# Configuration du réseau
 Setting up the network is fast and very easy. It allows your computer to connect to the Garlicoin Network.
 
 ## Step 1. Downloading the Files
@@ -49,7 +49,7 @@ While keeping your network window open, Open a new Command Prompt.
 Navigate to your Garlicoin folder (use `cd C:\Garlic\`), and type `garlicoin-cli getblockchaininfo`.  
 This command displays information about the blockchain you have downloaded, the `blocks` value at the top is the number of blocks that has been recieved. You can run this command a few times to check the statu. Once it hits the value (https://explorer.grlc-bakery.fun/api/getblockcount)[here] your blockchain sync is complete.
 
-# Getting a Wallet
+# Créer un Portefeuille
 Once you have gotten the Network up and running, you will need to get a wallet address.  
 
 ## Step 1. Using the Command Prompt
@@ -86,7 +86,7 @@ If you ever wish to send Garlicoin to someone. You can use this command `garlico
 
 That's it! You are done!
 
-# Troubleshooting
+# Diagnostic des anomalies
 
 ## json\_rpc\_call failed, retry after 10 seconds
 If you are getting this error, let it keep retrying. It should correct itself soon.
