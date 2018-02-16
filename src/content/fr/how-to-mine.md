@@ -1,8 +1,8 @@
 # Table of Contents
 - [Qu'est-ce que c'est miner](#quest-ce-que-cest-miner)
 - [CPU vs GPU](#cpu-vs-gpu)
-- [Solo vs Pool](#solo-vs-reserve)
-- [Start Mining](#start-mining)
+- [Solo vs Réserve](#solo-vs-réserve)
+- [Commence à miner](#commence-à-miner)
 
 # Qu'est-ce que c'est miner
 Le minage de crytpo-monnaie consiste à vérifier si une transaction est valide à l'aide des calculs d'un ordinateur. Pour chaque confirmation, le mineur reçoit une récompense sous la forme d'une petite quantité de Garlicoin. Pour apprendre sur la technologie chaîne de bloc (blockchain), visitez se [site](https://www.youtube.com/watch?v=bBC-nXj3Ng4).  
@@ -27,7 +27,7 @@ Pool mining is when multiple miners get together and mine as a group (called a p
 
 **Not everybody should use the same pool**. If a pool dominates (controls at least 51% of all the mining power), it means that they have full control over the blockchain and can therefore cheat the system by modifying some of the values (essentially creating, stealing, or removing money). As a result, pool diversity is very important and people should try to find the best pool or independent ones, to solidify the network.
 
-# Start Mining
+# Commence à miner
 If you wish to start mining, you can check out these options:
 **GPU Pool Mining is recommended** as it has the highest success rate.
 - [CPU (all)](./mining-cpu.html)
