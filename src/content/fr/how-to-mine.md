@@ -1,12 +1,11 @@
 # Table of Contents
-- [What Is Mining](#what-is-mining)
+- [Qu'est-ce que c'est miner](#qu'est-ce-que-c'est-miner)
 - [CPU vs GPU](#cpu-vs-gpu)
 - [Solo vs Pool](#solo-vs-pool)
 - [Start Mining](#start-mining)
 
-# What Is Mining
-Mining, in cryptocurrency, is the process of verifying that a transaction is valid using computer calculations. For each verification a miner makes, they get a small amount of newly created Garlicoin for their "hard" work.  
-You can learn more about how blockchain works [here](https://www.youtube.com/watch?v=bBC-nXj3Ng4).  
+# Qu'est-ce que c'est miner
+Le minage de crytpo-monnaie consiste à vérifier si une transaction est valide à l'aide des calculs d'un ordinateur. Pour chaque confirmation, le mineur reçoit une récompense sous la forme d'une petite quantité de Garlicoin. Pour apprendre sur la technologie chaîne de bloc (blockchain), visitez se [site](https://www.youtube.com/watch?v=bBC-nXj3Ng4).  
 <br>
 
 Miners can only use their CPU (Processor) and GPU (Graphics Card) to mine Garlicoin as it is ASIC resistant; meaning that it will try to block mining on mining-specific hardware.
