@@ -1,5 +1,5 @@
 # Table of Contents
-- [Qu'est-ce que c'est miner](#qu'est-ce-que-c'est-miner)
+- [Qu'est-ce que c'est miner](#quest-ce-que-cest-miner)
 - [CPU vs GPU](#cpu-vs-gpu)
 - [Solo vs Pool](#solo-vs-pool)
 - [Start Mining](#start-mining)
