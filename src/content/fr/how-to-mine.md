@@ -8,15 +8,15 @@
 Le minage de crytpo-monnaie consiste à vérifier si une transaction est valide à l'aide des calculs d'un ordinateur. Pour chaque confirmation, le mineur reçoit une récompense sous la forme d'une petite quantité de Garlicoin. Pour apprendre sur la technologie chaîne de bloc (blockchain), visitez se [site](https://www.youtube.com/watch?v=bBC-nXj3Ng4).  
 <br>
 
-Miners can only use their CPU (Processor) and GPU (Graphics Card) to mine Garlicoin as it is ASIC resistant; meaning that it will try to block mining on mining-specific hardware.
+Les mineurs peuvent seulement utiliser leur CPU (processeur) et leur GPU (carte graphique) pour miner Garlicoin, car il résiste à la technologie ASIC. Ce qui signifie que les tentatives de mine sur ASIC seront bloquées.
 
 # CPU vs GPU
-Miners can use either their CPU (processor) or GPU (graphics card) to mine Garlicoin (since Garlicoin is ASIC resistant, those are the only two options).  
-Mining on the CPU is more accessible and easier to setup, but mining on the GPU is much faster and will yield to better results; It is therefore recommended to mine on the GPU (if available).
-It should be noted that mining on a laptop is not recommended (although feasible), because laptops are much less powerful and could get damaged much more easily.
+Les miners peuvent miner à l'aide de leur processeur (CPU) ou leur carte graphic (GPU) (comme Garlicoin est résistant au ASIC, ce sont les deux seules options).  
+Le minage sur un CPU est plus facile à installer et commencer, mais miner sur un GPU est beaucoup plus vite et te done de meilleur résultats. Alors, il est conseillé à miner à l'aide d'un GPU.
+Il opportun de noter que miner sur un ordinateur portable n'est pas recommandée (bien que faisable), parce que les ordinateurs portables sont beaucoup moins puissants et pourraient être endommagés beaucoup plus facilement.
 
 # Solo vs Réserve
-When mining, whoever succesfully verifies (or mines) a block first gets the reward for mining it.  
+Pendant que vous minez, celui qui vérifie (mine) le bloc en premier va avoir la récompense. 
 <br>
 
 Solo mining is when a miner tries to mine by themselves; this can lead to a much higher block reward than pool mining (because the reward isn't shared), but is much more difficult because others might be able to mine faster and the Solo miner will never be able to mine one before everyone else.  
