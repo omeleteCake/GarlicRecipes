@@ -1,7 +1,7 @@
 # Table of Contents
 - [Qu'est-ce que c'est miner](#quest-ce-que-cest-miner)
 - [CPU vs GPU](#cpu-vs-gpu)
-- [Solo vs Pool](#solo-vs-pool)
+- [Solo vs Pool](#solo-vs-reserve)
 - [Start Mining](#start-mining)
 
 # Qu'est-ce que c'est miner
@@ -15,7 +15,7 @@ Miners can use either their CPU (processor) or GPU (graphics card) to mine Garli
 Mining on the CPU is more accessible and easier to setup, but mining on the GPU is much faster and will yield to better results; It is therefore recommended to mine on the GPU (if available).
 It should be noted that mining on a laptop is not recommended (although feasible), because laptops are much less powerful and could get damaged much more easily.
 
-# Solo vs Pool
+# Solo vs Réserve
 When mining, whoever succesfully verifies (or mines) a block first gets the reward for mining it.  
 <br>
 
