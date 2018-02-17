@@ -1,4 +1,4 @@
-# Table of Contents
+# Table de matières
 - [Qu'est-ce que c'est miner](#quest-ce-que-cest-miner)
 - [CPU vs GPU](#cpu-vs-gpu)
 - [Solo vs Réserve](#solo-vs-réserve)
