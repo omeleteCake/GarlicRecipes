@@ -19,18 +19,19 @@ Il opportun de noter que miner sur un ordinateur portable n'est pas recommandée
 Pendant que vous minez, celui qui vérifie (mine) le bloc en premier va avoir la récompense. 
 <br>
 
-Solo mining is when a miner tries to mine by themselves; this can lead to a much higher block reward than pool mining (because the reward isn't shared), but is much more difficult because others might be able to mine faster and the Solo miner will never be able to mine one before everyone else.  
+Le minage Solo est quand un mineur essaie de miner seul; cela peut donner une plus grande récompense que le minage avec réserve (car la récompense n'est pas partagée), mais il est beaucoup plus difficile parce que le mineur doit miner le bloc plus vite que tous les autres, ce qui est souvent impossible.
 <br>
 
-Pool mining is when multiple miners get together and mine as a group (called a pool). This group is able to mine much more efficiently, which might lead to a higher success rate (and therefore reward) to its miners. Because pools are groups of miners, when they reach a reward, it is distributed to everybody based on how much they contributed (meaning a much lower reward than with solo mining). Some pools might also have a pooling fee, which are usually used by the owner to pay for their pool's hosting cost.  
+Le minage Réserve est quand plusieurs mineurs forment un groupe pour miner ensemble (Réserve de mineurs). Un groupe est capable à miner de façon plus efficace, car ils accumulent l'énergie de tous les ordinateurs dans la réserve. Cela peut mener à un taux de réussit plus élevée. La récompense est ensuite partagée en proportion avec combien de travail ils ont fait pour miner ce bloc. La récompense va être moins grande que celle du minage Solo. La plupart des Réserve ont des frais que le propriétaire de la Réserve va recevoir. Ils servent habituellement à maintenir la Réserve.
 <br>
 
-**Not everybody should use the same pool**. If a pool dominates (controls at least 51% of all the mining power), it means that they have full control over the blockchain and can therefore cheat the system by modifying some of the values (essentially creating, stealing, or removing money). As a result, pool diversity is very important and people should try to find the best pool or independent ones, to solidify the network.
+**Tout le monde ne doit pas utiliser la même Réserve**. Si une Réserve controle au moins 51% de tout le pouvoir minage, elle controle sur toute la chaîne de bolc (blockchain)
+f a pool dominates (controls at least 51% of all the mining power), it means that they have full control over the blockchain and can therefore cheat the system by modifying some of the values (essentially creating, stealing, or removing money). As a result, pool diversity is very important and people should try to find the best pool or independent ones, to solidify the network.
 
 # Commence à miner
 If you wish to start mining, you can check out these options:
 **GPU Pool Mining is recommended** as it has the highest success rate.
-- [CPU (all)](./mining-cpu.html)
+- [CPU](./mining-cpu.html)
 - [Windows Nvidia](./mining-win-nvidia.html)
 - [Windows AMD](./mining-win-amd.html)
 - [Linux GPU](./mining-nix-gpu.html)
