@@ -29,8 +29,8 @@ Le minage Réserve est quand plusieurs mineurs forment un groupe pour miner ense
 
 
 # Commence à miner
-If you wish to start mining, you can check out these options:
-**GPU Pool Mining is recommended** as it has the highest success rate.
+Si vous voulez commencer à miner, voici les différentes options:
+**Le minage GPU avec une Réserve est conseillé ** il a le taux de réussite le plus élevée.
 - [CPU](./mining-cpu.html)
 - [Windows Nvidia](./mining-win-nvidia.html)
 - [Windows AMD](./mining-win-amd.html)
