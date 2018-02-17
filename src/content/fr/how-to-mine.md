@@ -25,8 +25,8 @@ Le minage Solo est quand un mineur essaie de miner seul; cela peut donner une pl
 Le minage Réserve est quand plusieurs mineurs forment un groupe pour miner ensemble (Réserve de mineurs). Un groupe est capable à miner de façon plus efficace, car ils accumulent l'énergie de tous les ordinateurs dans la réserve. Cela peut mener à un taux de réussit plus élevée. La récompense est ensuite partagée en proportion avec combien de travail ils ont fait pour miner ce bloc. La récompense va être moins grande que celle du minage Solo. La plupart des Réserve ont des frais que le propriétaire de la Réserve va recevoir. Ils servent habituellement à maintenir la Réserve.
 <br>
 
-**Tout le monde ne doit pas utiliser la même Réserve**. Si une Réserve controle au moins 51% de tout le pouvoir minage, elle controle sur toute la chaîne de bolc (blockchain)
-f a pool dominates (controls at least 51% of all the mining power), it means that they have full control over the blockchain and can therefore cheat the system by modifying some of the values (essentially creating, stealing, or removing money). As a result, pool diversity is very important and people should try to find the best pool or independent ones, to solidify the network.
+**Tout le monde ne doit pas utiliser la même Réserve**. Si une Réserve controle au moins 51% de tout le pouvoir minage, elle controle toute la chaîne de bloc (blockchain). Elle peut alors modifier certaines valeurs afin de créer, voler ou supprimer de l'argent. Pour résoudre ce problème, il faut avoir une grande diversité de Réserves. Les gens devraient essayer plusieurs Réserves et choisir le plus commode pour eux-mêmes. Aussi, les gens devraient utiliser des Réserves indépendantes pour solidifier le réseau.
+
 
 # Commence à miner
 If you wish to start mining, you can check out these options:
