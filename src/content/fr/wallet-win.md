@@ -8,7 +8,7 @@ La configuration du réseau est facile et rapide. Ça va vous permettre de conne
 
 ## Étape 1. Télécharger les fichiers
 D'abord, vous devez télécharger les binaires de Windows [içi](https://garlicoin.io/downloads) aussi bien que [Fichiers de Démarrage Rapide](ROOT/files/wallet-win.zip).
-Quand cela est fini, ouvrez les 2 fichiers (`.tar.gz` ET `.zip`), ensuite extrayez leur contenu dans un dossier(Dans ce tutuoriel, nous allons utiliser `C:\Garlic\`).  
+Quand cela est fini, ouvrez les 2 fichiers (`.tar.gz` ET `.zip`), ensuite extrayez leur contenu dans un dossier (Dans ce tutuoriel, nous allons utiliser `C:\Garlic\`).  
 ![Garlic Folder With Files](https://i.imgur.com/YYqtODB.png)
 
 ## Step 2. Connexion au Réseau
