@@ -19,8 +19,7 @@ Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.
 Ouvrez le fichier; une fenêtre d'invite de commande devrait s'ouvrir. Vous devez vous assurez que vous autorisez l'accès au travers le pare-feu (si ça te le demande).  
 <br>
 
-Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.** 
-<br>
+Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.**  
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 ### Command Line Way
