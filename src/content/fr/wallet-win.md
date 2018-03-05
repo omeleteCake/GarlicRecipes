@@ -16,11 +16,11 @@ Cela peut être fait de 2 façon, à travers l'interface visuelle (Recommandé) 
 
 ### Interface visuelle
 Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.  
-Open that file; a command prompt window should open. Make sure you Allow Access through your firewall (if it asks you).  
+Ouvrez le fichier; une fenêtre d'invite de commande devrait s'ouvrir. Vous devez vous assurez que vous autorisez l'accès au travers le pare-feu (si ça te le demande).  
 <br>
 
-The program will not say anything, let it sit in the background. **Do not close it.**  
-*You will have to open this any time you wish to use your wallet (or when solo mining).*  
+Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.**
+*Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 ### Command Line Way
 For the more experienced, open a Command Prompt.  
