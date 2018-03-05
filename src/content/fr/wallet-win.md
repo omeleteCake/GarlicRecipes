@@ -4,18 +4,18 @@
 - [Diagnostic des anomalies](#diagnostic-des-anomalies)
 
 # Configuration du réseau
-Setting up the network is fast and very easy. It allows your computer to connect to the Garlicoin Network.
+La configuration du réseau est facile et rapide. Ça va vous permettre de connecter ton ordinateur au Réseau Garlicoin.
 
-## Step 1. Downloading the Files
-First, you will need to download the windows binaries [here](https://garlicoin.io/downloads) as well as the [Quick Start Files](ROOT/files/wallet-win.zip).
-Once that is done, open the two files (both the `.tar.gz` AND the `.zip`) and extract all of their content into a folder (In this tutorial, we will use `C:\Garlic\`).  
+## Étape 1. Télécharger les fichiers
+D'abord, vous devez télécharger les binaires de Windows [içi](https://garlicoin.io/downloads) aussi bien que [Fichiers de Démarrage Rapide](ROOT/files/wallet-win.zip).
+Quand cela est fini, ouvrez les 2 fichiers (`.tar.gz` ET `.zip`), ensuite extrayez leur contenu dans un dossier(Dans ce tutuoriel, nous allons utiliser `C:\Garlic\`).  
 ![Garlic Folder With Files](https://i.imgur.com/YYqtODB.png)
 
-## Step 2. Connecting to the Network
-This can be done in two ways, the Graphical Way (Recommended) and the Command Line way.  
+## Step 2. Connexion au Réseau
+Cela peut être fait de 2 façon, à travers l'interface visuelle (Recommandé) ou la ligne de commande.  
 
-### Graphical Way
-In your installation folder, there should be a file called `Run-Network.bat`.  
+### Interface visuelle
+Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.  
 Open that file; a command prompt window should open. Make sure you Allow Access through your firewall (if it asks you).  
 <br>
 
