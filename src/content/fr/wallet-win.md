@@ -12,7 +12,7 @@ Quand cela est fini, ouvrez les 2 fichiers (`.tar.gz` ET `.zip`), ensuite extray
 ![Garlic Folder With Files](https://i.imgur.com/YYqtODB.png)
 
 ## Step 2. Connexion au Réseau
-Cela peut être fait de 2 façon, à travers l'interface visuelle (Recommandé) ou la ligne de commande.  
+Cela peut être fait de 2 façon, à travers l'interface visuelle (Recommandé) ou la ligne de commandes.  
 
 ### Interface visuelle
 Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.  
@@ -22,15 +22,15 @@ Ouvrez le fichier; une fenêtre d'invite de commande devrait s'ouvrir. Vous deve
 Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.**  
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
-### Command Line Way
-For the more experienced, open a Command Prompt.  
-Navigate to your Garlic folder using `cd`.  
-Once that is done, run the command: `garlicoind`.
-Windows might ask you for Firewall Access, Allow it.  
+### Ligne de commandes
+Pour ceux qui ont plus d'expérience, ouvrez l'invite de commandes.  
+Navigue à votre dosser Garlic en utilisant `cd`.  
+Ensuite, exécutéz la commande : `garlicoind`.   
+Windows peut te demander l'accès du Pare-feu, permettez-le.  
 <br>
 
-The program will not say anything, let it sit in the background. **Do not close it.**  
-*You will have to run this any time you wish to use your wallet (or when solo mining).*
+Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.**  
+*Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 
 ## Step 3. Moving .conf File to Roaming\Garlicoin
