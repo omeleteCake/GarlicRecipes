@@ -33,15 +33,15 @@ Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme p
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 
-## Step 3. Moving .conf File to Roaming\Garlicoin
-Back to your Garlic folder, there should be a file called `garlicoin.conf`. This file needs to be moved to the `Garlicoin` folder found in `AppData\Roaming`.  
+## Étape 3. Déplacement du fichier .conf vers Roaming\Garlicoin
+Retour à ton dossier Garlic, il devrait y avoir un fichier appelé `garlicoin.conf`. Ce fichier doit être déplacé vers le dossier `Garlicoin` qui se trouve dans `AppData\Roaming`.  
 <br>
 
-To access this folder, Open **RUN** (Windows + R), and type `%appdata%`. This should open a folder, locate the `Garlicoin` folder and move the `garlicoin.conf` file to it.
+Pour accéder à ce dossier, Ouvrez **RUN** (Windows + R), et tapez  `%appdata%`. Cela devrait ouvrir un dossier, localisez le dossier `Garlicoin` et déplacez le fichier `garlicoin.conf` vers celui-ci.
 
-## Step 4. Restart the Network
-Just to be sure that everything was done correctly. Close your Network window (the one `Run-Network.bat` one) by holding **Ctrl + C**.  
-Now repeat **Step 2**, you should be good to go.  
+## Étape 4. Redémarrer le Réseau
+Juste pour être certain que tout a été bien fait. Fermez votre fenêtre de Réseau (celui `Run-Network.bat`) en maintenant **Ctrl + C**.  
+Maintenant, répetez **Étape 2**, tout devrait être pret.  
 <br>
 
 ## Step 5. Download the Blockchain
