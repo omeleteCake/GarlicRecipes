@@ -50,7 +50,7 @@ Navigue vers ton dossier Garlicoin (utilise `cd C:\Garlic\`), et tapez `garlicoi
 Cette commande affiche l'information sur la chaine à blocs que vous avez téléchargé, la valeur des `blocks` qui se trouve en haut est le nombre de blocs reçus. Vous pouvez exécuter cette commande plusieurs fois pour vérifier l'état. Dès qu'il arrive à la valeur  (https://explorer.grlc-bakery.fun/api/getblockcount)[ici] la synchronisation de votre chaine à blocs est finite.
 
 # Créer un Portefeuille
-Once you have gotten the Network up and running, you will need to get a wallet address.  
+Maintenant que vous avez le Réseau qui fonctionne, vous devez faire une adresse de Portefeuille.  
 
 ## Étape 1. Utiliser l'Invite de Commandes
 Open a **Command Prompt**. You will now need to navigate to your installation folder; you can do so like this:  
