@@ -44,15 +44,15 @@ Juste pour être certain que tout a été bien fait. Fermez votre fenêtre de R�
 Maintenant, répetez **Étape 2**, tout devrait être pret.  
 <br>
 
-## Step 5. Download the Blockchain
-While keeping your network window open, Open a new Command Prompt.  
-Navigate to your Garlicoin folder (use `cd C:\Garlic\`), and type `garlicoin-cli getblockchaininfo`.  
-This command displays information about the blockchain you have downloaded, the `blocks` value at the top is the number of blocks that has been recieved. You can run this command a few times to check the statu. Once it hits the value (https://explorer.grlc-bakery.fun/api/getblockcount)[here] your blockchain sync is complete.
+## Étape 5. Télécharger la chaîne à blocs (Blockchain)
+Pendant que votre fenêtre du réseau est ouverte, ouvrez une nouvelle invite de commandes.  
+Navigue vers ton dossier Garlicoin (utilise `cd C:\Garlic\`), et tapez `garlicoin-cli getblockchaininfo`.  
+Cette commande affiche l'information sur la chaine à blocs que vous avez téléchargé, la valeur des `blocks` qui se trouve en haut est le nombre de blocs reçus. Vous pouvez exécuter cette commande plusieurs fois pour vérifier l'état. Dès qu'il arrive à la valeur  (https://explorer.grlc-bakery.fun/api/getblockcount)[ici] la synchronisation de votre chaine à blocs est finite.
 
 # Créer un Portefeuille
 Once you have gotten the Network up and running, you will need to get a wallet address.  
 
-## Step 1. Using the Command Prompt
+## Étape 1. Utiliser l'Invite de Commandes
 Open a **Command Prompt**. You will now need to navigate to your installation folder; you can do so like this:  
 If you have installed on a different drive, you need to type the letter of your drive followed by a colon. For example, drive F would be `F:`. Then press enter.
 Type `cd C:\Garlic\` (or whatever your installation folder is) and press Enter . 
