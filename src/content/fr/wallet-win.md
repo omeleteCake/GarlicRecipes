@@ -71,7 +71,7 @@ Pour s'assurer que tout s'est bien passé (ou pour voir votre solde), vous pouve
 Cela devrait te donner l'information sur votre solde, portefeuille, quand votre dernière transaction était...  
 <br>
 
-## Step 4. Backing Up the Wallet
+## Étape 4. Backing Up the Wallet
 Sometimes, the wallet app can fail and corrupt the wallet. If you wish to back it up before that happens (in order to recover it in case it does break), follow these steps:  
 In a Command Prompt window (while the network is running), type the command: `garlicoin-cli backupwallet <path>`.  
 This will save a `wallet.dat` file in at the given path. If your wallet ever gets corrupted, navigate to this folder:
