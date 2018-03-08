@@ -16,14 +16,14 @@ Cela peut être fait de 2 façon, à travers l'interface visuelle (Recommandé) 
 
 ### Interface visuelle
 Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.  
-Ouvrez le fichier; une fenêtre d'invite de commande devrait s'ouvrir. Vous devez vous assurez que vous autorisez l'accès au travers le pare-feu (si ça te le demande).  
+Ouvrez le fichier; une fenêtre d'Invite de Commande devrait s'ouvrir. Vous devez vous assurez que vous autorisez l'accès au travers le pare-feu (si ça te le demande).  
 <br>
 
 Le program va rien dire, laisse le fonctionner en arriêre-plan. **Ne le ferme pas.**  
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 ### Ligne de commandes
-Pour ceux qui ont plus d'expérience, ouvrez l'invite de commandes.  
+Pour ceux qui ont plus d'expérience, ouvrez l'Invite de Commandes.  
 Navigue à votre dosser Garlic en utilisant `cd`.  
 Ensuite, exécutéz la commande : `garlicoind`.   
 Windows peut te demander l'accès du Pare-feu, permettez-le.  
@@ -45,7 +45,7 @@ Maintenant, répetez **Étape 2**, tout devrait être pret.
 <br>
 
 ## Étape 5. Télécharger la chaîne à blocs (Blockchain)
-Pendant que votre fenêtre du réseau est ouverte, ouvrez une nouvelle invite de commandes.  
+Pendant que votre fenêtre du réseau est ouverte, ouvrez une nouvelle Invite de Commandes.  
 Navigue vers ton dossier Garlicoin (utilise `cd C:\Garlic\`), et tapez `garlicoin-cli getblockchaininfo`.  
 Cette commande affiche l'information sur la chaine à blocs que vous avez téléchargé, la valeur des `blocks` qui se trouve en haut est le nombre de blocs reçus. Vous pouvez exécuter cette commande plusieurs fois pour vérifier l'état. Dès qu'il arrive à la valeur  (https://explorer.grlc-bakery.fun/api/getblockcount)[ici] la synchronisation de votre chaine à blocs est finite.
 
@@ -53,16 +53,16 @@ Cette commande affiche l'information sur la chaine à blocs que vous avez télé
 Maintenant que vous avez le Réseau qui fonctionne, vous devez faire une adresse de Portefeuille.  
 
 ## Étape 1. Utiliser l'Invite de Commandes
-Open a **Command Prompt**. You will now need to navigate to your installation folder; you can do so like this:  
-If you have installed on a different drive, you need to type the letter of your drive followed by a colon. For example, drive F would be `F:`. Then press enter.
-Type `cd C:\Garlic\` (or whatever your installation folder is) and press Enter . 
+Ouvrez **l'Invite de Commandes**. Vous devez localiser votre dossiez d'installation; vous pouvez le faire de cette façon:  
+Si vous l'avez installé un lecteur différent, vous devez écrire la lettre de votre lecteur suivie par un deux-points. Par exemple, lecteur F serait `F:`. Ensuite, appuyez Entrée.   
+Tapez `cd C:\Garlic\` (ou quel que soit votre dossier d'installation) et appuyez Entrée. 
 
-## Step 2. Getting a New Address
-In the Command Prompt, type this command: `garlicoin-cli getnewaddress`.  
-This should return a series of letters and numbers. This is your address. Make sure that you copy it and keep it somewhere.  
-(To copy from the Command Prompt, select the address with your mouse and then right click).  
+## Étape 2. Faire une Nouvelle Adresse
+Dans l'Invite de Commandes, écrivez cette commande: `garlicoin-cli getnewaddress`.  
+Vous verrez une longue chaîne de lettres et de chiffres. Ceci est votre adresse Garlicoin. Assurez-vous de la copier et de la conserver quelque part.  
+(Pour copier de l'Invite de Commandes, selectionnez l'adresse avec votre souris et ensuite, faites un clic-droit).  
 
-*Whenever someone wants to pay you, you can send them this address*
+*Quand quelqu'un veut te payer, vous l'envoyez cette adresse*
 
 ![Image of GetNewAddress](https://i.imgur.com/pjSUslM.png)
 
