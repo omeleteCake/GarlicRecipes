@@ -71,10 +71,10 @@ Pour s'assurer que tout s'est bien passé (ou pour voir votre solde), vous pouve
 Cela devrait te donner l'information sur votre solde, portefeuille, quand votre dernière transaction était...  
 <br>
 
-## Étape 4. Backing Up the Wallet
-Sometimes, the wallet app can fail and corrupt the wallet. If you wish to back it up before that happens (in order to recover it in case it does break), follow these steps:  
-In a Command Prompt window (while the network is running), type the command: `garlicoin-cli backupwallet <path>`.  
-This will save a `wallet.dat` file in at the given path. If your wallet ever gets corrupted, navigate to this folder:
+## Étape 4. Sauvegarde du Portefeuille
+Parfois, l'application du Portefeuille peut échouer et corrompre le Portefeuille. Si vous voulez faire une sauvegarde avant que cela arrive (afin de le récupérer s'il échoue), suivez ces étapes:  
+Dans une fenêtre d'Invite de Commandes (pendant que le Réseau fonctionne), écrivez la commande: `garlicoin-cli backupwallet <path>`.  
+Cela va enregistrer un fichier `wallet.dat` dans le chemin donné. Si votre Portefeuille devient corrompu, navigue vers ce dossier:
 - Windows: `%APPDATA%\Bitcoin`
 - Linux: `~/.bitcoin/`
 - MacOS: `~/Library/Application Support/Bitcoin/`
