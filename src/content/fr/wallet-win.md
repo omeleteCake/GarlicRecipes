@@ -66,9 +66,9 @@ Vous verrez une longue chaîne de lettres et de chiffres. Ceci est votre adresse
 
 ![Image of GetNewAddress](https://i.imgur.com/pjSUslM.png)
 
-## Step 3. Getting Wallet Info
-To make sure that you have done everything right (or to view your balance), you can type: `garlicoin-cli getwalletinfo` in that same Command Prompt.  
-This should give you information about your balance, wallet, when your last transaction was...  
+## Étape 3. Obtenir des informations sur votre Portefeuille
+Pour s'assurer que tout s'est bien passé (ou pour voir votre solde), vous pouvez tapez: `garlicoin-cli getwalletinfo` dans le même Invite de Commandes.  
+Cela devrait te donner l'information sur votre solde, portefeuille, quand votre dernière transaction était...  
 <br>
 
 ## Step 4. Backing Up the Wallet
