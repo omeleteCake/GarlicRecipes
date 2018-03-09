@@ -79,28 +79,28 @@ Cela va enregistrer un fichier `wallet.dat` dans le chemin donné. Si votre Port
 - Linux: `~/.bitcoin/`
 - MacOS: `~/Library/Application Support/Bitcoin/`
 
-and overwrite the `wallet.dat` file inside the folder by the backup one.
+et écrasez le fichier `wallet.dat` dans le dossier avec la sauvegarde.
 
 ## Step 5. Sending to Someone Else
-If you ever wish to send Garlicoin to someone. You can use this command `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
+Si vous voulez envoyez du Garlicoin à quelqu'un, vous pouvez utilisez cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
 
-That's it! You are done!
+C'est tout! Vous avez fini!
 
 # Diagnostic des anomalies
 
 ## json\_rpc\_call failed, retry after 10 seconds
-If you are getting this error, let it keep retrying. It should correct itself soon.
+Si vous avez cette erreur, laissez le réessayer. Ça devrait se résoudre tout seul.
 
 ## garlicoind is not recognized
-If you are getting this eror, it means that your Command Prompt is not opened in your installation directory. 
-Make sure that you have used `cd C:\Path\To\Garlic\Folder` before running your command.
+Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouvert dans votre directoire d'installation. 
+Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'éxecuter la commande.
 
 ## garlicoin-cli is not recognized
-If you are getting this eror, it means that your Command Prompt is not opened in your installation directory. 
-Make sure that you have used `cd C:\Path\To\Garlic\Folder` before running your command.
+Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouvert dans votre directoire d'installation. 
+Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'éxecuter la commande.
 
 ## 0 blocks
-Try changing your `.conf` file to have the content found on the [Changes page](./changes.html).
+Veuillez changer votre fichier `.conf`  pour avoir le contenu sur [Changes page](./changes.html).
 
-## HELP!
-If the above troubleshooting steps do not work. You can ask in the Discord chat `#troubleshooting` or `#windows-mining` or contact me `@Pandawan#4158`.
+## À L'AIDE!
+Si le support technique ci-dessus ne vous a pas aidé, n'hésitez pas à demander dans le chat Discord `#mining-support` ou contactez moi `@Pandawan#4158`.
