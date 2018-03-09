@@ -100,7 +100,7 @@ Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouvert 
 Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'éxecuter la commande.
 
 ## 0 blocks
-Veuillez changer votre fichier `.conf`  pour avoir le contenu sur [Changes page](./changes.html).
+Veuillez changer votre fichier `.conf`  pour avoir le contenu sur [Page de changements](./changes.html).
 
 ## À L'AIDE!
 Si le support technique ci-dessus ne vous a pas aidé, n'hésitez pas à demander dans le chat Discord `#mining-support` ou contactez moi `@Pandawan#4158`.
