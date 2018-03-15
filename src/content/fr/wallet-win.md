@@ -82,7 +82,7 @@ Cela va enregistrer un fichier `wallet.dat` dans le chemin donné. Si votre Port
 et écrasez le fichier `wallet.dat` dans le dossier avec la sauvegarde.
 
 ## Étape 5. Envoyer à quelqu'un
-Si vous voulez envoyer du Garlicoin à quelqu'un, vous pouvez utilisez cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
+Si vous voulez envoyer du Garlicoin à quelqu'un, vous pouvez utiliser cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
 
 C'est tout! Vous avez fini!
 
@@ -92,15 +92,15 @@ C'est tout! Vous avez fini!
 Si vous avez cette erreur, laissez le réessayer. Ça devrait se résoudre tout seul.
 
 ## garlicoind is not recognized
-Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouvert dans votre directoire d'installation. 
-Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'éxecuter la commande.
+Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouverte dans votre directoire d'installation. 
+Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'exécuter la commande.
 
 ## garlicoin-cli is not recognized
-Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouvert dans votre directoire d'installation. 
-Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'éxecuter la commande.
+Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouverte dans votre directoire d'installation. 
+Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'exécuter la commande.
 
 ## 0 blocks
 Veuillez changer votre fichier `.conf`  pour avoir le contenu sur [Page de changements](./changes.html).
 
 ## À L'AIDE!
-Si le support technique ci-dessus ne vous a pas aidé, n'hésitez pas à demander dans le chat Discord `#mining-support` ou contactez moi `@Pandawan#4158`.
+Si l'assistance technique ci-dessus ne vous a pas aidé, n'hésitez pas à demander dans le chat Discord `#mining-support` ou contactez-moi `@Pandawan#4158`.
