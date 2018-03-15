@@ -47,27 +47,27 @@ Maintenant, répétez **Étape 2**, tout devrait être prêt
 ## Étape 5. Télécharger la chaîne à blocs (Blockchain)
 Pendant que votre fenêtre du réseau est ouverte, ouvrez une nouvelle Invite de Commandes.  
 Navigue vers ton dossier Garlicoin (utilise `cd C:\Garlic\`), et tapez `garlicoin-cli getblockchaininfo`.  
-Cette commande affiche l'information sur la chaine à blocs que vous avez téléchargé, la valeur des `blocks` qui se trouve en haut est le nombre de blocs reçus. Vous pouvez exécuter cette commande plusieurs fois pour vérifier l'état. Dès qu'il arrive à la valeur  (https://explorer.grlc-bakery.fun/api/getblockcount)[ici] la synchronisation de votre chaine à blocs est finite.
+Cette commande affiche l'information sur la chaine à blocs que vous avez téléchargée, la valeur des `blocks` qui se trouve en haut est le nombre de blocs reçus. Vous pouvez exécuter cette commande plusieurs fois pour vérifier l'état. Dès qu'il arrive à la valeur  (https://explorer.grlc-bakery.fun/api/getblockcount)[ici] la synchronisation de votre chaine à blocs est finie.
 
 # Créer un Portefeuille
 Maintenant que vous avez le Réseau qui fonctionne, vous devez faire une adresse de Portefeuille.  
 
 ## Étape 1. Utiliser l'Invite de Commandes
-Ouvrez **l'Invite de Commandes**. Vous devez localiser votre dossiez d'installation; vous pouvez le faire de cette façon:  
+Ouvrez **l'Invite de Commandes**. Vous devez localiser votre dossier d'installation; vous pouvez le faire de cette façon:  
 Si vous l'avez installé un lecteur différent, vous devez écrire la lettre de votre lecteur suivie par un deux-points. Par exemple, lecteur F serait `F:`. Ensuite, appuyez Entrée.   
 Tapez `cd C:\Garlic\` (ou quel que soit votre dossier d'installation) et appuyez Entrée. 
 
 ## Étape 2. Faire une Nouvelle Adresse
 Dans l'Invite de Commandes, écrivez cette commande: `garlicoin-cli getnewaddress`.  
 Vous verrez une longue chaîne de lettres et de chiffres. Ceci est votre adresse Garlicoin. Assurez-vous de la copier et de la conserver quelque part.  
-(Pour copier de l'Invite de Commandes, selectionnez l'adresse avec votre souris et ensuite, faites un clic-droit).  
+(Pour copier de l'Invite de Commandes, sélectionnez l'adresse avec votre souris et ensuite, faites un clic-droit.)   
 
 *Quand quelqu'un veut te payer, vous l'envoyez cette adresse*
 
 ![Image of GetNewAddress](https://i.imgur.com/pjSUslM.png)
 
 ## Étape 3. Obtenir des informations sur votre Portefeuille
-Pour s'assurer que tout s'est bien passé (ou pour voir votre solde), vous pouvez tapez: `garlicoin-cli getwalletinfo` dans le même Invite de Commandes.  
+Pour vous assurer que tout s'est bien passé (ou pour voir votre solde), vous pouvez tapez: `garlicoin-cli getwalletinfo` dans le même Invite de Commandes.  
 Cela devrait te donner l'information sur votre solde, portefeuille, quand votre dernière transaction était...  
 <br>
 
@@ -82,7 +82,7 @@ Cela va enregistrer un fichier `wallet.dat` dans le chemin donné. Si votre Port
 et écrasez le fichier `wallet.dat` dans le dossier avec la sauvegarde.
 
 ## Step 5. Sending to Someone Else
-Si vous voulez envoyez du Garlicoin à quelqu'un, vous pouvez utilisez cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
+Si vous voulez envoyer du Garlicoin à quelqu'un, vous pouvez utilisez cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
 
 C'est tout! Vous avez fini!
 
