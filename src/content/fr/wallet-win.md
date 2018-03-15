@@ -7,7 +7,7 @@
 La configuration du réseau est facile et rapide. Ça va vous permettre de connecter ton ordinateur au Réseau Garlicoin.
 
 ## Étape 1. Télécharger les fichiers
-D'abord, vous devez télécharger les binaires de Windows [içi](https://garlicoin.io/downloads) aussi bien que [Fichiers de Démarrage Rapide](ROOT/files/wallet-win.zip).
+D'abord, vous devez télécharger les binaires de Windows [ici](https://garlicoin.io/downloads) aussi bien que [Fichiers de Démarrage Rapide](ROOT/files/wallet-win.zip).
 Quand cela est fini, ouvrez les 2 fichiers (`.tar.gz` ET `.zip`), ensuite extrayez leur contenu dans un dossier (Dans ce tutoriel, nous allons utiliser `C:\Garlic\`).  
 ![Garlic Folder With Files](https://i.imgur.com/YYqtODB.png)
 
@@ -19,7 +19,7 @@ Dans le dossier, il devrait avoir un fichier nommé `Run-Network.bat`.
 Ouvrez le fichier; une fenêtre d'Invite de Commande devrait s'ouvrir. Vous devez vous assurez que vous autorisez l'accès au travers le pare-feu (si ça te le demande).  
 <br>
 
-Le programme ne va rien dire, laisse le fonctionner en arrière-plan. **Ne le ferme pas.**  
+Le programme ne va rien dire, laisse-le fonctionner en arrière-plan. **Ne le ferme pas.**  
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 ### Ligne de commandes
@@ -29,7 +29,7 @@ Ensuite, exécutez la commande : `garlicoind`.
 Windows peut te demander l'accès du Pare-feu, permettez-le.  
 <br>
 
-Le programme ne va rien dire, laisse le fonctionner en arrière-plan. **Ne le ferme pas.**  
+Le programme ne va rien dire, laisse-le fonctionner en arrière-plan. **Ne le ferme pas.**  
 *Vous devrez l'ouvrir chaque fois que vous voulez utiliser votre Portefeuille (ou pendant le Minager Solo).*
 
 
@@ -99,7 +99,7 @@ Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'exécuter la comma
 Si vous avez cette erreur, c'est que votre Invite de Commandes n'est pas ouverte dans votre directoire d'installation. 
 Assurez-vous d'utiliser `cd C:\Path\To\Garlic\Folder` avant d'exécuter la commande.
 
-## 0 blocks
+## 0 blocs
 Veuillez changer votre fichier `.conf`  pour avoir le contenu sur [Page de changements](./changes.html).
 
 ## À L'AIDE!
