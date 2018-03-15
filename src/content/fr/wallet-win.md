@@ -81,7 +81,7 @@ Cela va enregistrer un fichier `wallet.dat` dans le chemin donné. Si votre Port
 
 et écrasez le fichier `wallet.dat` dans le dossier avec la sauvegarde.
 
-## Step 5. Sending to Someone Else
+## Étape 5. Envoyer à quelqu'un
 Si vous voulez envoyer du Garlicoin à quelqu'un, vous pouvez utilisez cette commande `garlicoin-cli sendtoaddress <bitcoinaddress> <amount>`.
 
 C'est tout! Vous avez fini!
